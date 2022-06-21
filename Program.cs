@@ -3,6 +3,7 @@
     private static void Main(string[] args)
     {
         List<string> NameList = new List<string>(); //Create a list
+        
         Random randomnumber = new Random(); //Generator random numbers
         bool alreadyTyped; alreadyTyped = false; // Bool to see if the user as already typed a name
         
@@ -30,13 +31,10 @@
         Console.WriteLine("Here is the final result:"); 
         Console.ForegroundColor = ConsoleColor.Green; // Sets the result to green
     
+       
         for(int i = 0; i < numberofnamesRandomized; i++){ // This is gona repeat how many names the user wanted to randomized
-            
-            string nameTorandomize = (NameList[randomnumber.Next(numberofNames)]);
-            Console.WriteLine(nameTorandomize);
-
+            Console.WriteLine(NameList[randomnumber.Next(numberofNames)]);
         }
-
             
         Exit(); // This is a function to close the screen
     }

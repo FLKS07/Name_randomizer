@@ -13,3 +13,18 @@ C:\Users\Flávio\Desktop\Scripts\Name randomizer\obj\Debug\net6.0\refint\Name ra
 C:\Users\Flávio\Desktop\Scripts\Name randomizer\obj\Debug\net6.0\Name randomizer.pdb
 C:\Users\Flávio\Desktop\Scripts\Name randomizer\obj\Debug\net6.0\Name randomizer.genruntimeconfig.cache
 C:\Users\Flávio\Desktop\Scripts\Name randomizer\obj\Debug\net6.0\ref\Name randomizer.dll
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\bin\Debug\net6.0\Name randomizer.exe
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\bin\Debug\net6.0\Name randomizer.deps.json
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\bin\Debug\net6.0\Name randomizer.runtimeconfig.json
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\bin\Debug\net6.0\Name randomizer.dll
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\bin\Debug\net6.0\Name randomizer.pdb
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\Name randomizer.csproj.AssemblyReference.cache
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\Name randomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\Name randomizer.AssemblyInfoInputs.cache
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\Name randomizer.AssemblyInfo.cs
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\Name randomizer.csproj.CoreCompileInputs.cache
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\Name randomizer.dll
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\refint\Name randomizer.dll
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\Name randomizer.pdb
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\Name randomizer.genruntimeconfig.cache
+C:\Users\Flávio\Desktop\Scripts\Name_randomizer\obj\Debug\net6.0\ref\Name randomizer.dll

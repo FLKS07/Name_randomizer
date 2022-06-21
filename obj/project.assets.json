@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Flávio\\Desktop\\Scripts\\Name randomizer\\Name randomizer.csproj",
+      "projectUniqueName": "C:\\Users\\Flávio\\Desktop\\Scripts\\Name_randomizer\\Name randomizer.csproj",
       "projectName": "Name randomizer",
-      "projectPath": "C:\\Users\\Flávio\\Desktop\\Scripts\\Name randomizer\\Name randomizer.csproj",
+      "projectPath": "C:\\Users\\Flávio\\Desktop\\Scripts\\Name_randomizer\\Name randomizer.csproj",
       "packagesPath": "C:\\Users\\Flávio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Flávio\\Desktop\\Scripts\\Name randomizer\\obj\\",
+      "outputPath": "C:\\Users\\Flávio\\Desktop\\Scripts\\Name_randomizer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Flávio\\AppData\\Roaming\\NuGet\\NuGet.Config",
